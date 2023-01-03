@@ -1,3 +1,6 @@
+### Edit:
+So it turns out December 2022 was a whirlwind. I literally did not look at AoC after Day 1 despite my best intentions. I may try it some random month in 2023.
+
 # Advent of Code 2022
 
 ## :santa: About Advent Of Code
